@@ -57,13 +57,11 @@ Build a predictive model that identifies potential subscribers, improving market
 ## 📈 Results & Insights  
 
 | Model               | Accuracy | Precision | Recall | F1-score | ROC AUC |
-|--------------------|----------|-----------|--------|----------|---------|
-| Logistic Regression| ...      | ...       | ...    | ...      | ...     |
-| Decision Tree      | ...      | ...       | ...    | ...      | ...     |
-| KNN                | ...      | ...       | ...    | ...      | ...     |
-| SVM                | ...      | ...       | ...    | ...      | ...     |
+|--------------------|----------|-----------|--------|----------|---------|                                   
+| Logistic Regression| 0.6010     0.1587       0.5958  0.2506      0.6497
+| Decision Tree      | 0.6393    | 0.1608    | 0.5265  | 0.2463    |0.6345   |
+| KNN                | 0.7507    | 0.2801     | 0.2011   | 0.2011     |0.5797    |
 
-> Replace the `...` with actual values from your notebook.
 
 ### 🔍 Key Takeaways  
 - Class imbalance significantly impacted model performance  
