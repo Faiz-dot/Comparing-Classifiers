@@ -8,6 +8,7 @@ This project compares the performance of four classification algorithms—K-Near
 - **Source:** [UCI Machine Learning Repository – Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)  
 - **Records:** Direct marketing campaign data collected via phone calls  
 - **Target Variable:** `y` – whether the client subscribed to a term deposit (`yes`/`no`)
+- **Code file :** https://github.com/Faiz-dot/Comparing-Classifiers/blob/main/prompt_III.ipynb
 
 ### 🔍 Key Features  
 - **Client Info:** `age`, `job`, `marital`, `education`, `default`, `housing`, `loan`  
